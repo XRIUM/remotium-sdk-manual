@@ -1,0 +1,1 @@
+# remotium-sdk-manual-for-isolation
